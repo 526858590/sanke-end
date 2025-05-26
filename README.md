@@ -2,6 +2,9 @@
 
 一个基于C语言开发的增强版贪吃蛇游戏，具有丰富的游戏特性和精美的界面设计。
 
+![ad87623087b24be6b7beff1011dbdc94](https://github.com/user-attachments/assets/27902e82-4c37-414c-bff5-d6f600118949)
+
+
 ## 游戏亮点
 
 1. **多类型食物系统**
@@ -45,6 +48,7 @@
    - 撞到墙壁
    - 咬到自己
    - 按ESC退出
+     
 ![7257e3ba94559c730c17d2f0dac05413](https://github.com/user-attachments/assets/2651e148-3dc3-4dbf-b743-6d497944421f)
 
 ## 核心函数说明
