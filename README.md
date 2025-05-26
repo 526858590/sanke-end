@@ -2,8 +2,6 @@
 
 一个基于C语言开发的增强版贪吃蛇游戏，具有丰富的游戏特性和精美的界面设计。
 
-![ad87623087b24be6b7beff1011dbdc94](https://github.com/user-attachments/assets/27902e82-4c37-414c-bff5-d6f600118949)
-
 
 ## 游戏亮点
 
